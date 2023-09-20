@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My bussiness strenghth</title>
+  </head>
+  <body>
+    <header>
+      This is my Bussiness site
+      <nav>dashboard,contact us,about us will be go here</nav>
+    </header>
+    <main>
+      This is the main content of the page
+      <article>This is the article on the page</article>
+      <aside>Some additional but not relevant information</aside>
+      <section>Some more information about our website</section>
+      <p> we provide stylish items related gold like rings, earings, nose pins , necklace. </p>
+    </main>
+    <footer>your page copyright will go here</footer>
+  </body>
+</html>
